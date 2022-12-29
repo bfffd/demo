@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5691-E5F4
+
+ Directory of C:\Users\Admin\Desktop\myproject
+
+30/12/2022  01:43    <DIR>          .
+30/12/2022  01:43    <DIR>          ..
+30/12/2022  01:43                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  71,293,181,952 bytes free
